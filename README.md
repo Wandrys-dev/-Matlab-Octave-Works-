@@ -5,5 +5,11 @@ Therefore, this repository is made in attempt to contribute to the Computer Scie
 
 I mostly add programs and visualized results of some challenging Data Science, ML or Mathamatics related Problems in this repository.
 
+<p align="center">
+  <img src="calculando.gif">
+</p>
+
+
+
 This repository is open to all who wants to contribute. 
 Thanks.
